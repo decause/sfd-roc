@@ -13,7 +13,7 @@ Project License
 [MIT License](https://github.com/callahad/gamepad-test/blob/gh-pages/LICENSE)
 
 
-[Remy the Flossopher VS. Net Neutrality](http://$PROJECTDEMOLINK/)
+[Remy the Flossopher VS. Net Neutrality](http://www.csh.rit.edu/~ajman/Games/remy-flossopher/)
 ====
 Remy the Flossopher is a visual novel adventure game. Players work to thwart Comcast and keep Net Neutrality safe as Remy the Flossopher, the world's foremost champion on all that is freedom.
 
