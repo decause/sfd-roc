@@ -36,7 +36,6 @@ Project License
 -------------------------------------------------------------------------------
 -->
 
-```
 [Gamepad Testing and Information](http://callahad.github.io/gamepad-test/)
 ====
 A web app utilizing the gamepad API in Javascript to gather and display
