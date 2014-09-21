@@ -18,6 +18,19 @@ Project License
 <br/>
 <br/>
 
+[Justify](http://hollyhastings.me/justify/)
+====
+Justify is a web application that randomly generates excuses to get out of unwanted circumstances.
+
+Project Members
+----
+ - [Holly Hastings (hollyhastings)](http://github.com/hollyhastings/) 
+ - [Nicolas McCurdy (nicolasmccurdy)](http://github.com/nicolasmccurdy/) 
+
+Project License
+----
+[MIT License](http://opensource.org/licenses/MIT)
+
 <!--Actual Project Submissions Above Here
 -------------------------------------------------------------------------------
 -->
