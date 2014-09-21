@@ -2,7 +2,7 @@ Submission Template
 ----
 
 ```
-Project Name
+[Project Name](http://$PROJECTDEMOLINK/)
 ====
 Block of project description text. Probably brief and succinct.
 
@@ -16,13 +16,9 @@ Project License
 ----
 [$LICENSENAME](http://$LICENSELINK/)
 
-Project Demo
-----
-
-[$DEMOLINK](http://$DEMOLINK/)
 ```
 
-Project Name
+[Project Name](http://$PROJECTDEMOLINK/)
 ====
 Block of project description text. Probably brief and succinct.
 
@@ -36,7 +32,3 @@ Project License
 ----
 [$LICENSENAME](http://$LICENSELINK/)
 
-Project Demo
-----
-
-[$DEMOLINK](http://$DEMOLINK/)
