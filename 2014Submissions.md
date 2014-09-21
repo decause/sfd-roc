@@ -26,22 +26,23 @@ Project License
 ----
 [MIT License](https://github.com/callahad/gamepad-test/blob/gh-pages/LICENSE)
 
+<br/>
 
-[mcsafetyfeed.org v2.0](https://next.mcsafetyfeed.org/)
+[Cosmos Browser](http://$PROJECTDEMOLINK/)
 ====
-Version 2.0 of the existing http://mcsafetyfeed.org/ website.
-Includes new back end (previously php, now python/pyramid) and new front-end.
+Block of project description text. Probably brief and succinct.
 
 Project Members
 ----
- - [Timothy Duffy (thequbit)](https://github.com/thequbit)
+ - [Stefan](http://github.com/ColdSauce/) 
+ - [Josh](http://github.com/jxm7374/) 
+ - [Alexander](http://github.com/piedoom/) 
 
 Project License
 ----
-[GPL v3.0](https://github.com/thequbit/mc911feedwatcher/blob/master/LICENSE)
+[Mozilla Public Lisense](https://www.mozilla.org/MPL/)
 
 
-<br/>
 <br/>
 <br/>
 <br/>
@@ -84,7 +85,7 @@ Project License
 
 ```
 
-[Project Name](http://$PROJECTDEMOLINK/)
+[Project Name](https://github.com/ColdSauce/CosmosBrowserFirefoxOS)
 ====
 Block of project description text. Probably brief and succinct.
 
