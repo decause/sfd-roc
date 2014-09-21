@@ -1,12 +1,9 @@
 Software Freedom Day ROC
 ======
 This repository is being used to track the projects submitted during the SFD14
-in Rochester, NY.
+hackathon in Rochester, NY.
 
-link: http://sfd14-roc.eventbrite.com
-
-
-
+http://sfd14-roc.eventbrite.com
 
 LICENSE
 ----
