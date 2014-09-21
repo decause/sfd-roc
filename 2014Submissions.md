@@ -12,16 +12,11 @@ Project License
 ----
 [MIT License](https://github.com/callahad/gamepad-test/blob/gh-pages/LICENSE)
 
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <!--Actual Project Submissions Above Here
 -------------------------------------------------------------------------------
