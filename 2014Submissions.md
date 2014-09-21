@@ -26,7 +26,6 @@ Project License
 ----
 [MIT License](https://github.com/callahad/gamepad-test/blob/gh-pages/LICENSE)
 
-<<<<<<< HEAD
 [Political Party Crasher](http://nolski.rocks)
 ====
 Political Party Crasher is a visualization of campaign contributions. It is
@@ -103,7 +102,7 @@ Project Members
 Project License
 ----
 [Mozilla Public Lisense](https://www.mozilla.org/MPL/)
-=======
+
 
 [mcsafetyfeed.org v2.0](https://next.mcsafetyfeed.org/)
 ====
@@ -117,7 +116,6 @@ Project Members
 Project License
 ----
 [GPL v3.0](https://github.com/thequbit/mc911feedwatcher/blob/master/LICENSE)
->>>>>>> 4a5c9b46f1dadc7e8229283dff4b1c7c872ecaf5
 
 
 <br/>
