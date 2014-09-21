@@ -132,15 +132,10 @@ Project License
 [GPL v3.0](https://github.com/thequbit/mc911feedwatcher/blob/master/LICENSE)
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 [Justify](http://hollyhastings.me/justify/)
 ====
 Justify is a web application that randomly generates excuses to get out of unwanted circumstances.
+
 
 Project Members
 ----
@@ -150,6 +145,12 @@ Project Members
 Project License
 ----
 [MIT License](http://opensource.org/licenses/MIT)
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <!--Actual Project Submissions Above Here
 -------------------------------------------------------------------------------
