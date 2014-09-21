@@ -1,27 +1,3 @@
-[Gamepad Testing and Information](http://callahad.github.io/gamepad-test/)
-====
-A web app utilizing the gamepad API in Javascript to gather and display
-information on connected gamepads in real time.
-
-Project Members
-----
- - [Dan Callahan (callahad)](http://github.com/callahad/) 
- - [Colin O'neill (faokryn)](http://github.com/Faokryn/) 
-
-Project License
-----
-[MIT License](https://github.com/callahad/gamepad-test/blob/gh-pages/LICENSE)
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<!--Actual Project Submissions Above Here
--------------------------------------------------------------------------------
--->
-
 Submission Template
 ----
 
@@ -56,3 +32,20 @@ Project License
 ----
 [$LICENSENAME](http://$LICENSELINK/)
 
+<!--Actual Project Submissions Below Here
+-------------------------------------------------------------------------------
+-->
+[Political Party Crasher](http://nolski.rocks)
+====
+Political Party Crasher is a visualization of campaign contributions. It is
+the beginning of a larger project to analyze the effect of monetary power
+upon congress.
+
+Project Members
+----
+ - [Nolski](http://github.com/nolski)
+ With the great encouragement of loothelion, citruspi, and many others
+
+Project License
+----
+[GPLv3](https://github.com/Nolski/PoliticalPartyCrasher/blob/master/LICENSE)
