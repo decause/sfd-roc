@@ -12,6 +12,21 @@ Project License
 ----
 [MIT License](https://github.com/callahad/gamepad-test/blob/gh-pages/LICENSE)
 
+
+[mcsafetyfeed.org v2.0](https://next.mcsafetyfeed.org/)
+====
+Version 2.0 of the existing http://mcsafetyfeed.org/ website.
+Includes new back end (previously php, now python/pyramid) and new front-end.
+
+Project Members
+----
+ - [Timothy Duffy (thequbit)](https://github.com/thequbit)
+
+Project License
+----
+[GPL v3.0](https://github.com/thequbit/mc911feedwatcher/blob/master/LICENSE)
+
+
 <br/>
 <br/>
 <br/>
