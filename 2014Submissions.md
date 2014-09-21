@@ -60,6 +60,20 @@ Project License
 [GNU LGPL v3](https://www.gnu.org/licenses/lgpl.html)
 
 
+[DayCast](http://github.com/wilfriedE/viewcast)
+====
+Keep Track of your day.
+
+Project Members
+----
+ - [Wilfried Hounyo (wilfriedE)](http://github.com/wilfriedE/) 
+
+Project License
+----
+[Apache License](http://https://github.com/wilfriedE/viewcast/blob/master/LICENSE/)
+
+
+
 [FOSSBLOX](https://github.com/PetreThePunk/FOSSHACK)
 ====
 A Tetris/Match 3 sort of game with a twist for FirefoxOS.
