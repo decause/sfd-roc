@@ -47,6 +47,28 @@ Project License
 <br/>
 <br/>
 
+[FOSSBLOX](https://github.com/PetreThePunk/FOSSHACK)
+====
+A Tetris/Match 3 sort of game with a twist for FirefoxOS.
+
+Project Members
+----
+ - [Peter Gyory (PetreThePunk)](https://github.com/PetreThePunk)
+ - [Reuben Brenner-Adams (kangareuben)](https://github.com/kangareuben)
+ - [Cailin Li (li-cai)](https://github.com/li-cai)
+ - [David Kisluk (dkgramming)](https://github.com/dkgramming)
+ - [Will Paul (dropofwill)](https://github.com/dropofwill)
+ 
+Project License
+----
+[GPL](https://github.com/PetreThePunk/FOSSHACK/blob/master/LICENSE.txt)
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <!--Actual Project Submissions Above Here
 -------------------------------------------------------------------------------
 -->
