@@ -42,6 +42,19 @@ Project License
 
 
 <br/>
+
+[GrooveBot](irc://freenode.net/%23rit-groove)
+====
+A bot that plays music from suggestions in IRC.
+
+Project Members
+----
+ - [Nathaniel Case (Qalthos)](http://github.com/Qalthos/)
+
+Project License
+----
+[GPLv3+](http://www.gnu.org/copyleft/gpl.html)
+
 <br/>
 <br/>
 <br/>
