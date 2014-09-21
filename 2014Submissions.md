@@ -1,4 +1,4 @@
-[Firefox OS Scrobbler](https://github.com/Stavrus/FxOSScrobbler/tree/frontend)
+[Firefox OS Scrobbler](https://github.com/honeybunch/FxOSScrobbler)
 ====
 This project was an attempt to create a Last.FM scrobbler for Firefox OS. A scrobbler keeps track of the songs played on your device. Ultimately, we were faced with technical challenges that prevented us from extracting the metadata out of the music player.
 
