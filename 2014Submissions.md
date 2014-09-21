@@ -35,3 +35,18 @@ Project License
 <!--Actual Project Submissions Below Here
 -------------------------------------------------------------------------------
 -->
+
+```
+[Gamepad Testing and Information](http://callahad.github.io/gamepad-test/)
+====
+A web app utilizing the gamepad API in Javascript to gather and display
+information on connected gamepads in real time.
+
+Project Members
+----
+ - [Dan Callahan (callahad)](http://github.com/callahad/) 
+ - [Colin O'neill (faokryn)](http://github.com/Faokryn/) 
+
+Project License
+----
+[MIT License](https://github.com/callahad/gamepad-test/blob/gh-pages/LICENSE)
